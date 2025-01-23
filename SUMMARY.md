@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [Universal Design for the Web](README.md)
+  * [Images](universal-design-for-the-web/images.md)
+  * [Color](universal-design-for-the-web/color.md)
