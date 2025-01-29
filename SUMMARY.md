@@ -11,3 +11,8 @@
   * [Tables](universal-design-for-the-web/tables.md)
   * [Forms](universal-design-for-the-web/forms.md)
   * [Dynamic JavaScript](universal-design-for-the-web/dynamic-javascript.md)
+  * [PDF Documents](universal-design-for-the-web/pdf-documents.md)
+* [Universal Design for the Physical World](universal-design-for-the-physical-world/README.md)
+  * [Universal Design Principles](universal-design-for-the-physical-world/universal-design-principles.md)
+  * [Applying Universal Design to Physical Spaces](universal-design-for-the-physical-world/applying-universal-design-to-physical-spaces.md)
+  * [Sidewalks](universal-design-for-the-physical-world/sidewalks.md)
