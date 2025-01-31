@@ -16,3 +16,8 @@
   * [Universal Design Principles](universal-design-for-the-physical-world/universal-design-principles.md)
   * [Applying Universal Design to Physical Spaces](universal-design-for-the-physical-world/applying-universal-design-to-physical-spaces.md)
   * [Sidewalks](universal-design-for-the-physical-world/sidewalks.md)
+  * [Building Entrances](universal-design-for-the-physical-world/building-entrances.md)
+  * [Multi-Level Buildings](universal-design-for-the-physical-world/multi-level-buildings.md)
+  * [Doorways](universal-design-for-the-physical-world/doorways.md)
+  * [Bathrooms](universal-design-for-the-physical-world/bathrooms.md)
+  * [Page](universal-design-for-the-physical-world/page.md)

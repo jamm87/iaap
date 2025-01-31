@@ -2,7 +2,7 @@
 
 ### Background
 
-![](https://dequeuniversity.com/class/iaap-cpacc/universal-design-physical-world/ud-principles/assets/images/iaap_course/universaldesignlogo.png)In 1997, a group of architects led by Ronald Mace at North Carolina State University called into question approaches to designing buildings, products, and environments. Mace and his group of architects realized that individuals are diverse and design of physical environments and products should be adaptable to individuals' needs. Together, the architects concluded that physical spaces and products should be "universal".
+In 1997, a group of architects led by Ronald Mace at North Carolina State University called into question approaches to designing buildings, products, and environments. Mace and his group of architects realized that individuals are diverse and design of physical environments and products should be adaptable to individuals' needs. Together, the architects concluded that physical spaces and products should be "universal".
 
 ### The Seven Principles of Universal Design
 
