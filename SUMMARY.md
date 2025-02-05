@@ -28,3 +28,5 @@
   * [Self Check-in/Check-out](universal-design-for-the-physical-world/self-check-in-check-out.md)
   * [Signs](universal-design-for-the-physical-world/signs.md)
   * [Printed Materials](universal-design-for-the-physical-world/printed-materials.md)
+  * [Microwaves](universal-design-for-the-physical-world/microwaves.md)
+  * [Televisions](universal-design-for-the-physical-world/televisions.md)
